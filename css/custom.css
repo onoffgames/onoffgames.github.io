@@ -18,6 +18,10 @@ body {
 .massive-sm {
   font-size: 7rem;
 }
+.mailto {
+  color:white;
+  
+}
 
 @font-face {
     font-family: "Agrandir";
