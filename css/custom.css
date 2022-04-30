@@ -1,0 +1,44 @@
+/* Custom.css < Do your own thing! */
+
+body {
+    background: transparent;
+}
+
+.o-8 {
+  background-color: #df7332;
+}
+
+.paintBlack {
+  color: black !important;
+}
+.nowrap {
+  white-space: nowrap;
+}
+
+.massive-sm {
+  font-size: 7rem;
+}
+
+@font-face {
+    font-family: "Agrandir";
+    src: url("../fonts/agrandir.otf");
+}
+@font-face {
+    font-family: "Muli";
+    src: url("../fonts/muli.ttf");
+}
+@font-face {
+    font-family: "Rusty";
+    src: url("../fonts/rusty.ttf");
+}
+
+.agrandir {
+    font-family: "Agrandir";
+}
+
+.muli {
+      font-family: "Muli";
+}
+.rusty {
+      font-family: "Rusty";
+}
