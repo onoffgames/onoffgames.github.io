@@ -1,3 +1,4 @@
+google.com, pub-5740871611190311, DIRECT, f08c47fec0942fa0
 mintegral.com, 36737, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
