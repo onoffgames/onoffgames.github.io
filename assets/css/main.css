@@ -2334,6 +2334,7 @@ span.is-active:after {
     position: absolute;
     bottom: -2px;
     left: 0;
+    right: 0;
 }
 
 .hero__shape img {
